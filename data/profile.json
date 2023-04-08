@@ -1,0 +1,51 @@
+{
+    "name": "Isabel Costa",
+    "photo": "https://avatars.githubusercontent.com/u/55243963?v=4",
+    "job": "Desenvolvedora Front-End Júnior",
+    "location": "Açu - RN",
+    "phone": "(84)99804-5354",
+    "email": "isabelksc082@gmail.com",
+    "skills": {
+      "softSkills": [
+        "Empatia",
+        "Trabalho em equipe",
+        "Flexibilidade",
+        "Organização"
+      ]
+    },
+    "languages": [
+      "Português BR",
+      "Inglês (intermediário)",
+      "Francês (iniciante)",
+      "Tailandês (iniciante)"
+    ],
+    "portfolio": [
+      {
+        "name": "Calculadora",
+        "url": "https://github.com/IsabelKaryne/Calculator",
+        "github": true
+      },
+      {
+        "name": "Clone do Netflix",
+        "url": "https://github.com/IsabelKaryne/Netflix",
+        "github": true
+      }
+    ],
+    "professionalExperience": [
+      {
+        "name": "Suporte Técnico / Portábilis",
+        "period": "2022 - 2023",
+        "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      },
+      {
+        "name": "Suporte Técnico / Ágili-RN",
+        "period": "2020 - 2022",
+        "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      },
+      {
+        "name": "Front-End / Turing tecnologia (EJ)",
+        "period": "2019 - 2020",
+        "description": "Atuando como desenvolvedora front-end na empresa junior da faculdade formada por alunos dos cursos de LCI e BSI"
+      }
+    ]
+  }
